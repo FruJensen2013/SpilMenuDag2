@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //spilmenu 
+            //spilmenu 1234
             Console.WriteLine("SPILMENU");
             Console.WriteLine("1. Start Game");
             Console.WriteLine("2. Settings");
